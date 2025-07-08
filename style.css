@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  position: relative;
+  width: 800px;
+  margin: auto;
+}
+.imagem-fundo {
+  width: 100%;
+  display: block;
+}
+.campo {
+  position: absolute;
+  font-size: 14px;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: white;
+}
